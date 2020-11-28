@@ -1,0 +1,68 @@
+#+TITLE: The Philosophy of Joscha Bach
+
+* On Philosophy, Mathematics and Methodology
+
+  Philosophy is the attempt to organize people around the idea of truth, what's the case. It starts out with natural language. Mathematics realizes from the start that all the philosophy has to be done in some language. Natural language is not good enough, so we need a formal language that has well defined /truths/ which we can /proof/ things in. The hope is that philosophy and mathematics meet at some point. The missing link is using these formal systems to deal with perception, reasoning etc. in a similar way as humans, but more systematically. So basically AI - the attempt of automation the human intellect based on mathematical principles.
+
+  Philosophy seems to be almost dead as a philosophical tradition. In part because of missing funding. People who work in in philosphy largely didn't have a formal education (in the sense of formal methods). Philosophers are doomed to only understand the introductory sections of scientific papers and books and then talk about this with other philosophers which is largely inconsequential for the individual disciplines. (Oof) 
+
+  cite:putman20_josch_bach_askin_right_quest
+
+
+* cite:jaimungal20_josch_bach_intel_exist_time_consc 
+
+[this one is particularly good, as the interviewer keeps asking for definitions of key terms]
+
+Q: What's your definition of truth?
+
+truth is defined in a language. A certain truth value you set your variables to. predicate to be calculated. can translate into the language our minds is using, which is in models. within these, you have some kind of truth definition, with your model conforming to your mathematical truth definition. It may be possible to be reduced to a set of axioms, for instance, i.e. compressed, or expanded from some axioms into a state of your descriptive system [model]. It's difficult to apply truth to an outside world. I don't believe in e.g. reference theory of truth. Reference can only exists between models. On the other hand, we normally never talk about  the outside world, it's this weird quantum graph, that's not accessible to us, that we take to be this system that generates patterns on out systemic interfaces to the world (e.g. retina). [hard to hear. ~these patterns generate models, the primary one is an integrated model of the entire universe, of which perception is an aspect (?)]
+
+We in some sense have a /res extensa/ and a /res cogitans/ to speak with decartes. Res extensa is not the universe itself, it's our model of the universe. It's the idea that everything that we perceive corresponds to a region in the same 3 dimensional space which is dynamically changing. Res cogitans is everything else, the ideas that we have. the anticipations, memories, intentions etc. these two interact. but there are several types of models that coexist in our mind.
+
+When we refer to something in the world, we refer to something in the integrated model of the universe that we have. it's changing, not static. it's not reality. My model contains colors and sounds. there are no colors and sounds in the physical universe. colors and sounds are functions that our brain computes to interpret certain types of patterns in the universe.
+
+[It's our way to make sense of oscillators, like light and sound waves - that's why there's a color circle or tone circle (added in the lex fridman podcast I think)].
+
+Q: What do you mean by /quantum graph/?
+
+There is an outside pattern generator. physics is trying to explain these patterns by a causally closed set of rules. somewhere out there is a system that generates us and our experiences. the big inside of computation is that computational systems have the necessary and sufficient means to produce arbitrary patterns. We don't have alternatives to computational descriptions here. computation is a way to frame language. if you want to have languages that describe systems that can produce patterns and are self consistent and can be reduced to first principles - these are computational systems. quantum graphs are graphical representation disassembling a system into nodes of states and links between them that translate the states between the nodes. very general computational description. Describe everything - especially spatially extended things in a graph. geometric space is very regular, if you zoom out far enough. describe the entire thing in the limit by operators that give rise to geometry.  
+
+Q: the computational subset of mathematics corresponds to our world?
+
+Mathematics is the domain of all languages. Formal languages are the simplest ones, define them such that you can proof things in them. One reason that we explore mathematics is to make rigorous and explicit models of intuitive understanding, for example geometry. Historically, geometry is most prominent. in some way, we teach mathematics the wrong way round in school - algebra first. then learn how to graph this function. Oh, it looks like a parabola. the invention was the other way round. How can you systematize these phenomena? Make it computable, e.g. $y=x^2$. On of the ways we discovered mathematics. Another: Logic. subset of natural languages.
+there was hope to make logic so general and natural language so precise such that you can prove things in the language we use to refer to facts. so we can build machines with language performance making statements etc.
+
+Q: mathematics is a great way to model those patterns? [10]
+
+Mathematics allows us to build arbitrary languages, e.g. natural languages, bitvectors, etc. Machine learning might gradually make sense from a camera stream bitvector. Maybe all the vectors refer to objects in 3D space, which is the best compression of the inputs, the best way to make sense of the patterns, to build a model that is most predictive. Mathematics allows us to construct and understand languages in which this takes place.
+
+On the difference between computation and mathematics: The standard definition of mathematics is time- and stateless. If you want to express temporal sequences, you use indices (discrete of continuous). Then you define a loop like an integral operator, which states that God instantaneously computes an infinite loop. It turns out, there are no gods! What we can do is approximate by very large numbers (steps in the loop). Carrying out infinite steps is impossible for anything in the physical universe. Also not for anything in mathematics without leading contradictions. In some sense, what Goedel discovered is that mathematics with infinities that actually uses these infinities leads into contradictions. Computation only uses states we can count up and actually execute on. Subset of mathematics that can be constructed. constructive mathematics is not a subset of mathematics unless you also include languages that don't work, i.e. are contradictory. The part of mathematics that works is computation, can be implemented. for something to be real it needs to be implemented. something that isn't implementable and cannot be realized as an executable system by anything isn't real. Constructive mathematics has a chance of being real.
+
+Q: Can you explicitly define what /real/ is? [13]
+
+As a small tangent. Goedel actually believed in the God of mathematics who can deal with infinities. His proof was a shock to him, in some sense! Part of what motivates Roger penrose rejecting that computers can be concious: "human minds can do non-computable mathematics. Computers can't do all of mathematics, but human minds can. See penrose tilings. There are infinities! how can you claim otherwise?" You're looking at a function with open-ended results. Similar to Pi. Pi is a set of functions. You get as many digits as you want. but you can never have a function that relies on the last digit of pi. Ultimately, you don't know the end of it. Goedel didn't believe in computation as the solution. He thought that mathematics has a big problem. It doesn't. Just the formalization of it. 
+
+Q: Does the number pi exist? What does it mean to exist? [17:08]
+
+Pi can be constructed. There is a process for it. It's as real as the mandelbrot fractal. It cannot physically exist with infinite resolution.
+
+Q: There is a difference between whether or not we can know it, whether or not its computable or whether or not it exists. [18:20]
+
+Pi with it's last digit does not exist. They can't be computed. they have no causal influence. For something to exist is to be implemented such that is has causal influences and can be consistently described by a model of the causal influences.
+
+Q: Do the integers exist? [19:10]
+
+Not all of them!
+
+Q: SO THERE IS A LARGEST NUMBER N??? [19:17]
+
+The integers are a model, they are a way of talking about things that are real. Its pointless to say this model exists. It's being constructed. the realization of peano's arithmetic exists in a way: for a certain amount of time that system can be stable enough to allow us to perform computations to some accuracy. This is one way to talk about /exist/. There is a causally closed lowest layer that exists. some kind of automaton that computes everything that happes. there seems to be something. something seems to be real. why is there something rather than nothing. It's the most obscene thing! so confusing! the easiest answer is that existence is the default. such that everything implemented without contradictions - exists. So you have the superposition of all these computational operators. and some of these regions of the resulting fractal contains us.
+
+Q: Like the multiverse? [21:30]
+
+the everett/wheeler/graham version is different from my idea. 
+
+Q: Do you believe the universe is deterministic? [26:54]
+
+  
+bibliography:~/Documents/2022.PhD/bibliography/references.bib
