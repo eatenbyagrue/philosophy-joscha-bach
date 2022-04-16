@@ -163,23 +163,70 @@ Communism is tricky because it didn't exist. It's an utopia that never happened.
 Your organism is a control system. Regulating body temperature etc. like a big elephant. Yoru consciousness is like a monkey on top of the elephant. Its purpose is the control model of the attention of the system. Attention is for learning: i) by repetition and ii) what you pay attention to. You relate features to each other, they can be very remote. Combine them into a unique Gestalt.
 
 ** 1:13:32 What's more fundamental... Consciousness or attention?
-Yes. Consciousness is the expression of attending. You only remember events with you being conscious when you attended to them. Control agent controls the organism, the elephant. You have an attention agent inside of the control agent.
+Attention. Consciousness is the expression of attending. You only remember events with you being conscious when you attended to them. Control agent controls the organism, the elephant. You have an attention agent inside of the control agent.
 
 ** 1:16:02 The Chinese Room Experiment
 How can a physical system become conscious? Goes back to Leibniz's mill intuition pump. It's a category mistake to think that consciousness exists at /that/ level. If you wanna build conscious AI, you can't out of physical things (according to the argument). You would have to simulate it, with formal systems emulating experiences of a conscious being. Like a multi-media story. This is used to control the behavior of the agent including speech and self reports. Simulating also thoughts etc. What if this system would feel like something? It is virtually indistinguishable from us with thoughts etc.
 
+The answer to the big question 'how can we be consious in a physical universe' is: We are not in a physical universe. We only exist in the story the mind tells the self. Consiousness is virtual. The experience of realness is not the realness of the physical universe. What feels real, is the simulation to a simulacrum. A physical system cannot be conscious. We are characters inside a story the brain tells itself.
+
 Also see the TOE with John Vaervaeke and Joscha Bach on Chinese Room.
 
-1:25:22 Is understanding predicated on consciousness?
-1:26:22 Integrated Information Theory of consciousness (IIT)
-1:30:15 Donald Hoffman's theory of consciousness
-1:32:40 Douglas Hofstadter's "strange loop" theory of consciousness
-1:34:10 Holonomic Brain theory of consciousness
-1:34:42 Daniel Dennett's theory of consciousness
-1:36:57 Sensorimotor theory of consciousness (embodied cognition)
-1:44:39 What is intelligence?
-1:45:08 Intelligence vs. consciousness
-1:46:36 Where does Free Will come into play, in Bach's model?
+Q: What about Frodo in Lotr, is he conscious?
+
+The experience of reality is virtual. You inhabit virtual reality as an NPC. [it seems like they talk past each other here.] To Frodo it feels real!
+
+Q: How do you just write a conscious being?
+
+Not with natural language, but with a functional (i.e. a programming) language. if you basically completely model Frodo and his environment, he might feel conscious. Through thoughts, and needs, etc.
+
+Q: Can you create a small consciousness then?
+
+Maybe. If the agent is too small, its difficult to ascribe an interesting type of consciousness to it. It has to attend to something meaningful. The biggest problem of AI is not consciousness but understanding.
+
+UNDERSTANDING means that we map perceptions onto a more-or-less unified world model. Explain something by creating a relationship to a model of the world. What we perceive we are able to integrate into our model. Currently AI not doing that.
+
+** 1:25:22 Is understanding predicated on consciousness?
+
+Subject understands Object. Has to have self concept, system that can attend, self concept needs to have representation of the fact that it's currently attending. A system is conscious if it has a functional model of what it's attending to and of the fact that it's attending to that thing. [Doesn't really answer the question]?
+
+** 1:26:22 Integrated Information Theory of consciousness (IIT)
+Q: Tononi's integrated information theory (IIT)?
+
+Describes what consciousness feels like, so a phenomenal description. Something about here-and-now. We experience things consciously that don't happen physically. Because of feature-merging in our model which is not compatible with the physical universe but that's useful for the control of the physical universe. So our contents of our consciousness are determined by what makes useful control models not by what's physically possible.
+
+IIT also denies functionalism. Makes metaphysical assumptions which amount to panpsychism. Marries matter with consciousness.  Also something about \Phi (measure of integration?) [would have to read up on it to make sense of it]
+
+** 1:30:15 Donald Hoffman's theory of consciousness
+
+1) The world looks nothing like we experience it as. Bach buys that.
+2) Computers are an inadequate model of what our brains are doing. This results of a misunderstanding of what a computer is - more like a PC, brain is not organized like a von-Neumann-machine. This does not mean though that the brain can't be described by a turing machine, which is extremely general.
+
+** 1:32:40 Douglas Hofstadter's "strange loop" theory of consciousness
+
+This is off-the-cuff. Hofstadter is bound to a tradition in computer science taking Goedel talking about properties of a language that he is still trying to use - classical computationalist. [I guess Bach wants to say that Hofstadter is /not/ into constructive mathematics]
+
+** 1:34:10 Holonomic Brain theory of consciousness
+
+Oof uhh long time ago. Don't really know how it's explaining consciousness. Is there something implementable?
+
+** 1:34:42 Daniel Dennett's theory of consciousness
+
+There is nothing wrong with what Dennett says basically ever. I have no objections. But - he seems to ignore phenomenal experience. He's not deconstructing it. I don't object to anything but also don't learn very much from Dennett.
+
+** 1:36:57 Sensorimotor theory of consciousness (embodied cognition)
+
+How do you know that there is action in perception?
+
+We discover our body's motor control architecture through the senses. Intentional states and changes in the environment are related through the body. Originating in motivation and needs, leading to motor actions, leading to changes in the perceived environment, leading to changes in motivations etc. We discover that loop because we have access to all parts of it. The ability to conceptualize ourself as an agent comes as the solution to difficult control problems.
+
+** 1:44:39 What is intelligence?
+
+Computation gives you the language to express the causal laws sufficient to explain the conditions of your existence. Intelligence is the ability to make models. This makes sense in the context of a control task. Intelligent is measured by the complexity of the models the agent can build [This has to have some asterisks to it but they move on to the next question]
+** 1:45:08 Intelligence vs. consciousness
+
+Consciousness is a solution for creating some types of models that require the direction of attention. Death is the idea that our world-line is broken. We are not continuous in the first place. The continuity a construction we build over our memories.
+** 1:46:36 Where does Free Will come into play, in Bach's model?
 1:48:46 The opposite of free will can lead to, or feel like, addiction
 1:51:48 Changing your identity to effectively live forever
 1:59:13 Depersonalization disorder as a result of conceiving of your "self" as illusory
