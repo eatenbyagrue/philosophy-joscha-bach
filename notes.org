@@ -75,7 +75,6 @@ The integers are a model, they are a way of talking about things that are real. 
 Q: Like the multiverse? [21:30]
 
 the everett/wheeler/graham version - htat there is at every collaps of the wave function the universe splits - is different from my idea. They have a mathematical paradigm of a branching universe such that the branches don't causally influence each other after splitting. From the perspective of any kind of system, the only things that are /real/ to you are those which can causally influence you. We only exist in one of those timelines experiencing a smaller and smaller fraction of the whole. It's not the same as what I described earlier, which is independent of such a multiverse: look at the universe as an evolving fractal. A generator function produces all the possible generator functions by enumerating and executing them in parallel - as a result you get time, space, matter. Matter is the structure evolving in space. Space is a set of discernible locations containing information.
-
 Q: So, some subsets are causally closed...
 
 Well you send a signal sent into the universe and you get some feedback, like photons bouncing back. There is a limit to this: the observable universe. Beyond that doesn't have causal influence on us. In the multiverse theory there isn't just this boundary, but also boundarys 'next to us', when the universe splits. The multiverse is basically an inevitable description if the collapse of the wave function can happen in multiple ways. The collapse could be deterministic, but influenced by non-local factors.
@@ -87,10 +86,10 @@ Q: Do you believe the universe is deterministic? [26:54]
 I don't have strong beliefs on that. The conservation of information seems to imply determinism. Depends on your definition really. A deterministic function gives the same result every time. So we could find a function that describes everything in it. Indeterministic functions (transitions between adjacent states of the system) give different results, with unpredictable irregularities. You can always find an in deterministic model to describe a system, unless the system is described in all detail. you can construct a function that gives you the digits of pi, but not a function that gives you infinitely many random Numbers.
 
 ** 0:28:23 What determines the initial conditions, as well as the rules?
+
 Q: What do you think gives rise to initial conditions [of the universe]?
 
 Maybe there aren't any. The big bang is initial only from an external observer. It's not symmetrical. but it is reversible in that every state of the universe has a previous state. But there is this asymmetry: The stuff behind remembers the billard ball passing, but the stuff in front doesn't yet 'know' that it comes. There is this entropic arrow describing the direction of dispersal of information, how information gets smeared around. An ideal state is where this happened yet, everything is self contained. Basically all the entropic directions point away from the big bang. But this doesn't mean it ever existed. It's just a mathematical description.
-
 
 ** 0:30:55 What is time? Is time fundamental?
 Q: What is time? Is it fundamental?
@@ -101,9 +100,8 @@ Q: What is the experience of a photon?
 
 The photon is not multistable, it doesn't change state.
 
-
-
 ** 0:34:21 What's the optimal algorithm for finding truth?
+
 Q: What is the optimal algorithm to find truth?
 
 I don't know! That's for AI people to find out. In learnable circumstances, What's the best algorithm to employ to build a model of what's giong on? Not possible in every circumstances. Our universe must be controllable: atoms control elemntary particles, molecules control atoms, cells control molecules, organisms control cells, societies control organisms, etc. A hierarchy of control! Our way of looking at the complexity of the world.
@@ -123,7 +121,6 @@ Back to the optimal algorithm for truth. AI systems had a succession of algorith
 Q: Huh? [44:36]
 
 Watson is a family of IBM algorithm. google has different naming schemes - alphazero, alphago, deep-q-learning etc. The most interesting ones atm are /transformers/ looking for embeddings of feature space and similarity over many layers using attention based algorithm. The same algorithm that discovers structure in language can also discover structure in images. Is there an optimal algorithm that discovers structure everywhere? Maybe even in itself? a universal recipe? There might be something human level. Everything we do is basically an optimized search problem. It would mean we can stop doing science and go to the beach and surf.
-
 
 Q: There is a factor of time... [47:46]
 
@@ -146,7 +143,6 @@ My ideas are stories if have agency over. I don't have agency over my feelings (
 
 I grew up in a forest. Remote from villages. In first grade I met other kids for the first time basically. I had difficult relating. Math, physics, science fiction, etc. not soccer! I was excluded from many things. The same thing with politics in eastern germany. conform or be punished. At the same time, teachers told us to be critical and criticize the environment, because that's how facism happened. I question everything, explain it to me, before I believe it. What a hypocrisy! Difficult for me as a child. I practically decided to distrust my emotions. I had to form theories of how things work. In a healthy mind, this is temporary, and you get strong intuitons. there are no proofs about this, ideas are way to brittle. Science is inteded to deal with our darkest and murkiest intuitions. it has only marginal value for the individual. You need good intuitions. Scientist don't tell you which relationships to enter. You need to have good common sense. Only where these break down, science might help.
 
-
 ** 0:58:00 Society has a minimal role in training your intuitions
 Q: Who trains your intuitions? [58:07]
 
@@ -162,10 +158,18 @@ Q: Once you characterized facism as superorganism, not caring about the individu
 
 Communism is tricky because it didn't exist. It's an utopia that never happened. Justifying present mishaps of the system. Socialist GDR was very different from fascism. Fascism defines the individuals value exactly as its contribution to the group. For a disabled person, your value is negative. As an outside group, e.g. as a jewish person, you are an enemy. You are to be removed by its immune response. The extreme brutality is unique to fascism, especially at a modernist industrial scale. There are similar cultures, e.g. warrior tribes, that do similar things, but not at this scale. Socialsm was modernist, but didn't eradicate individuals for being disabled or different. There was eugenicism, e.g. disabled people often were sterilized for inheritable conditions, which we now think is immoral. GDR didn't have gulags, which where arguably as bad as KZs of the fascists. Gulags where targeting people arbitrarily. GDR was rather civilian. In terms of civil rights still far inferior to the west, but you didn't run the risk as an artist to end up in prison by being different.
 
+** 1:10:50 Bach's "control / attention / reflective recall" model
 
-1:10:50 Bach's "control / attention / reflective recall" model
-1:13:32 What's more fundamental... Consciousness or attention?
-1:16:02 The Chinese Room Experiment
+Your organism is a control system. Regulating body temperature etc. like a big elephant. Yoru consciousness is like a monkey on top of the elephant. Its purpose is the control model of the attention of the system. Attention is for learning: i) by repetition and ii) what you pay attention to. You relate features to each other, they can be very remote. Combine them into a unique Gestalt.
+
+** 1:13:32 What's more fundamental... Consciousness or attention?
+Yes. Consciousness is the expression of attending. You only remember events with you being conscious when you attended to them. Control agent controls the organism, the elephant. You have an attention agent inside of the control agent.
+
+** 1:16:02 The Chinese Room Experiment
+How can a physical system become conscious? Goes back to Leibniz's mill intuition pump. It's a category mistake to think that consciousness exists at /that/ level. If you wanna build conscious AI, you can't out of physical things (according to the argument). You would have to simulate it, with formal systems emulating experiences of a conscious being. Like a multi-media story. This is used to control the behavior of the agent including speech and self reports. Simulating also thoughts etc. What if this system would feel like something? It is virtually indistinguishable from us with thoughts etc.
+
+Also see the TOE with John Vaervaeke and Joscha Bach on Chinese Room.
+
 1:25:22 Is understanding predicated on consciousness?
 1:26:22 Integrated Information Theory of consciousness (IIT)
 1:30:15 Donald Hoffman's theory of consciousness
@@ -205,5 +209,3 @@ Communism is tricky because it didn't exist. It's an utopia that never happened.
 3:02:27 Activists are usually operating on false information
 3:03:04 Bach's Marxist roots and lessons to his former self
 3:08:45   BONUS BIT: On societies problems
-
-Q: Concerning your slides...[which slides?] [1:10:41]
