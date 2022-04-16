@@ -1,4 +1,10 @@
 #+TITLE: The Philosophy of Joscha Bach
+#+LATEX_HEADER: \documentclass{article}
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \setlist{nolistsep}
+#+LATEX_HEADER: \addbibresource{references.bib}
 
 * On Philosophy, Mathematics and Methodology
 
@@ -6,16 +12,16 @@
 
   Philosophy seems to be almost dead as a philosophical tradition. In part because of missing funding. People who work in in philosphy largely didn't have a formal education (in the sense of formal methods). Philosophers are doomed to only understand the introductory sections of scientific papers and books and then talk about this with other philosophers which is largely inconsequential for the individual disciplines. (Oof) 
 
-  cite:putman20_josch_bach_askin_right_quest
+  [cite:@putman20_josch_bach_askin_right_quest]
 
-
-* cite:jaimungal20_josch_bach_intel_exist_time_consc 
+* Notes on Podcast: Jaimungal (2020), Theories of Everything
+[cite:@jaimungal20_josch_bach_intel_exist_time_consc]
 
 [this one is particularly good, as the interviewer keeps asking for definitions of key terms]
-
+** 0:01:35 What is your definition of truth?
 Q: What's your definition of truth?
 
-truth is defined in a language. A certain truth value you set your variables to. predicate to be calculated. can translate into the language our minds is using, which is in models. within these, you have some kind of truth definition, with your model conforming to your mathematical truth definition. It may be possible to be reduced to a set of axioms, for instance, i.e. compressed, or expanded from some axioms into a state of your descriptive system [model]. It's difficult to apply truth to an outside world. I don't believe in e.g. reference theory of truth. Reference can only exists between models. On the other hand, we normally never talk about  the outside world, it's this weird quantum graph, that's not accessible to us, that we take to be this system that generates patterns on out systemic interfaces to the world (e.g. retina). [hard to hear. ~these patterns generate models, the primary one is an integrated model of the entire universe, of which perception is an aspect (?)]
+truth is defined in a language. A certain truth value you set your variables to. predicate to be calculated. can translate into the language our minds is using, which is in models. within these, you have some kind of truth definition, with your model conforming to your mathematical truth definition. It may be possible to be reduced to a set of axioms, for instance, i.e. compressed, or expanded from some axioms into a state of your descriptive system [model]. It's difficult to apply truth to an outside world. I don't believe in e.g. reference [correspondence] theory of truth. Reference [correspondence] can only exists between models. On the other hand, we normally never talk about  the outside world, it's this weird quantum graph, that's not accessible to us, that we take to be this system that generates patterns on out systemic interfaces to the world (e.g. retina). [hard to hear. ~these patterns generate models, the primary one is an integrated model of the entire universe, of which perception is an aspect (?)]
 
 We in some sense have a /res extensa/ and a /res cogitans/ to speak with decartes. Res extensa is not the universe itself, it's our model of the universe. It's the idea that everything that we perceive corresponds to a region in the same 3 dimensional space which is dynamically changing. Res cogitans is everything else, the ideas that we have. the anticipations, memories, intentions etc. these two interact. but there are several types of models that coexist in our mind.
 
@@ -23,10 +29,12 @@ When we refer to something in the world, we refer to something in the integrated
 
 [It's our way to make sense of oscillators, like light and sound waves - that's why there's a color circle or tone circle (added in the lex fridman podcast I think)].
 
+** 0:04:41 Nature's substratum is a "quantum graph"?
 Q: What do you mean by /quantum graph/?
 
-There is an outside pattern generator. physics is trying to explain these patterns by a causally closed set of rules. somewhere out there is a system that generates us and our experiences. the big inside of computation is that computational systems have the necessary and sufficient means to produce arbitrary patterns. We don't have alternatives to computational descriptions here. computation is a way to frame language. if you want to have languages that describe systems that can produce patterns and are self consistent and can be reduced to first principles - these are computational systems. quantum graphs are graphical representation disassembling a system into nodes of states and links between them that translate the states between the nodes. very general computational description. Describe everything - especially spatially extended things in a graph. geometric space is very regular, if you zoom out far enough. describe the entire thing in the limit by operators that give rise to geometry.  
+There is an outside pattern generator. physics is trying to explain these patterns by a causally closed set of rules. somewhere out there is a system that generates us and our experiences. the big inside of computation is that computational systems have the necessary and sufficient means to produce arbitrary patterns. We don't have alternatives to computational descriptions here. computation is a way to frame language. if you want to have languages that describe systems that can produce patterns and are self consistent and can be reduced to first principles - these are computational systems. quantum graphs are graphical representation disassembling a system into nodes of states and links between them that translate the states between the nodes. very general computational description. Describe everything - especially spatially extended things in a graph. geometric space is very regular, if you zoom out far enough. describe the entire thing in the limit by operators that give rise to geometry.
 
+** 0:06:25 Mathematics as the descriptor of all language
 Q: the computational subset of mathematics corresponds to our world?
 
 Mathematics is the domain of all languages. Formal languages are the simplest ones, define them such that you can proof things in them. One reason that we explore mathematics is to make rigorous and explicit models of intuitive understanding, for example geometry. Historically, geometry is most prominent. in some way, we teach mathematics the wrong way round in school - algebra first. then learn how to graph this function. Oh, it looks like a parabola. the invention was the other way round. How can you systematize these phenomena? Make it computable, e.g. $y=x^2$. On of the ways we discovered mathematics. Another: Logic. subset of natural languages.
@@ -36,11 +44,15 @@ Q: mathematics is a great way to model those patterns? [10]
 
 Mathematics allows us to build arbitrary languages, e.g. natural languages, bitvectors, etc. Machine learning might gradually make sense from a camera stream bitvector. Maybe all the vectors refer to objects in 3D space, which is the best compression of the inputs, the best way to make sense of the patterns, to build a model that is most predictive. Mathematics allows us to construct and understand languages in which this takes place.
 
+** 0:13:52 Why is constructivist mathematics "real"? What's the definition of "real"?
+
 On the difference between computation and mathematics: The standard definition of mathematics is time- and stateless. If you want to express temporal sequences, you use indices (discrete of continuous). Then you define a loop like an integral operator, which states that God instantaneously computes an infinite loop. It turns out, there are no gods! What we can do is approximate by very large numbers (steps in the loop). Carrying out infinite steps is impossible for anything in the physical universe. Also not for anything in mathematics without leading contradictions. In some sense, what Goedel discovered is that mathematics with infinities that actually uses these infinities leads into contradictions. Computation only uses states we can count up and actually execute on. Subset of mathematics that can be constructed. constructive mathematics is not a subset of mathematics unless you also include languages that don't work, i.e. are contradictory. The part of mathematics that works is computation, can be implemented. for something to be real it needs to be implemented. something that isn't implementable and cannot be realized as an executable system by anything isn't real. Constructive mathematics has a chance of being real.
 
 Q: Can you explicitly define what /real/ is? [13]
 
-As a small tangent. Goedel actually believed in the God of mathematics who can deal with infinities. His proof was a shock to him, in some sense! Part of what motivates Roger penrose rejecting that computers can be concious: "human minds can do non-computable mathematics. Computers can't do all of mathematics, but human minds can. See penrose tilings. There are infinities! how can you claim otherwise?" You're looking at a function with open-ended results. Similar to Pi. Pi is a set of functions. You get as many digits as you want. but you can never have a function that relies on the last digit of pi. Ultimately, you don't know the end of it. Goedel didn't believe in computation as the solution. He thought that mathematics has a big problem. It doesn't. Just the formalization of it. 
+As a small tangent. Goedel actually believed in the God of mathematics who can deal with infinities. His proof was a shock to him, in some sense! Part of what motivates Roger penrose rejecting that computers can be concious: "human minds can do non-computable mathematics. Computers can't do all of mathematics, but human minds can. See penrose tilings. There are infinities! how can you claim otherwise?" You're looking at a function with open-ended results. Similar to Pi. Pi is a set of functions. You get as many digits as you want. but you can never have a function that relies on the last digit of pi. Ultimately, you don't know the end of it. Goedel didn't believe in computation as the solution. He thought that mathematics has a big problem. It doesn't. Just the formalization of it.
+
+** 0:17:06 What does it mean to "exist"? Does "pi" exist?
 
 Q: Does the number pi exist? What does it mean to exist? [17:08]
 
@@ -50,6 +62,7 @@ Q: There is a difference between whether or not we can know it, whether or not i
 
 Pi with it's last digit does not exist. They can't be computed. they have no causal influence. For something to exist is to be implemented such that is has causal influences and can be consistently described by a model of the causal influences.
 
+** 0:20:14 The mystery of something vs. nothing. Existence is the default.
 Q: Do the integers exist? [19:10]
 
 Not all of them!
@@ -58,11 +71,139 @@ Q: SO THERE IS A LARGEST NUMBER N??? [19:17]
 
 The integers are a model, they are a way of talking about things that are real. Its pointless to say this model exists. It's being constructed. the realization of peano's arithmetic exists in a way: for a certain amount of time that system can be stable enough to allow us to perform computations to some accuracy. This is one way to talk about /exist/. There is a causally closed lowest layer that exists. some kind of automaton that computes everything that happes. there seems to be something. something seems to be real. why is there something rather than nothing. It's the most obscene thing! so confusing! the easiest answer is that existence is the default. such that everything implemented without contradictions - exists. So you have the superposition of all these computational operators. and some of these regions of the resulting fractal contains us.
 
+** 0:21:11 Bach's model vs. the multiverse
 Q: Like the multiverse? [21:30]
 
-the everett/wheeler/graham version is different from my idea. 
+the everett/wheeler/graham version - htat there is at every collaps of the wave function the universe splits - is different from my idea. They have a mathematical paradigm of a branching universe such that the branches don't causally influence each other after splitting. From the perspective of any kind of system, the only things that are /real/ to you are those which can causally influence you. We only exist in one of those timelines experiencing a smaller and smaller fraction of the whole. It's not the same as what I described earlier, which is independent of such a multiverse: look at the universe as an evolving fractal. A generator function produces all the possible generator functions by enumerating and executing them in parallel - as a result you get time, space, matter. Matter is the structure evolving in space. Space is a set of discernible locations containing information.
 
+Q: So, some subsets are causally closed...
+
+Well you send a signal sent into the universe and you get some feedback, like photons bouncing back. There is a limit to this: the observable universe. Beyond that doesn't have causal influence on us. In the multiverse theory there isn't just this boundary, but also boundarys 'next to us', when the universe splits. The multiverse is basically an inevitable description if the collapse of the wave function can happen in multiple ways. The collapse could be deterministic, but influenced by non-local factors.
+
+
+** 0:26:51 Is the universe deterministic
 Q: Do you believe the universe is deterministic? [26:54]
 
-  
-bibliography:~/Documents/2022.PhD/bibliography/references.bib
+I don't have strong beliefs on that. The conservation of information seems to imply determinism. Depends on your definition really. A deterministic function gives the same result every time. So we could find a function that describes everything in it. Indeterministic functions (transitions between adjacent states of the system) give different results, with unpredictable irregularities. You can always find an in deterministic model to describe a system, unless the system is described in all detail. you can construct a function that gives you the digits of pi, but not a function that gives you infinitely many random Numbers.
+
+** 0:28:23 What determines the initial conditions, as well as the rules?
+Q: What do you think gives rise to initial conditions [of the universe]?
+
+Maybe there aren't any. The big bang is initial only from an external observer. It's not symmetrical. but it is reversible in that every state of the universe has a previous state. But there is this asymmetry: The stuff behind remembers the billard ball passing, but the stuff in front doesn't yet 'know' that it comes. There is this entropic arrow describing the direction of dispersal of information, how information gets smeared around. An ideal state is where this happened yet, everything is self contained. Basically all the entropic directions point away from the big bang. But this doesn't mean it ever existed. It's just a mathematical description.
+
+
+** 0:30:55 What is time? Is time fundamental?
+Q: What is time? Is it fundamental?
+
+For an observer you need a multistable system moving through states. It forms a memory. It's changing its internal state as a result of an observation. We can describe our universe in terms of states of which some are the past of the current states. Enumerate all states, some states are the past of another, in terms of state transition following the laws of physics. You get timelines. All possible timelines all are all possible temporally extended universes. The state 'memorizes' the next. Time is rate of change as observed. Time is intrinsically relativistic. From outside of the system - a position we cannot take - time would be state transitions.
+
+Q: What is the experience of a photon?
+
+The photon is not multistable, it doesn't change state.
+
+
+
+** 0:34:21 What's the optimal algorithm for finding truth?
+Q: What is the optimal algorithm to find truth?
+
+I don't know! That's for AI people to find out. In learnable circumstances, What's the best algorithm to employ to build a model of what's giong on? Not possible in every circumstances. Our universe must be controllable: atoms control elemntary particles, molecules control atoms, cells control molecules, organisms control cells, societies control organisms, etc. A hierarchy of control! Our way of looking at the complexity of the world.
+A system being controlled implies that the controller implements a model of what's controlled. That means it's discoverable. Uncontrollable parts will look random to us. Some parts are regular enough to be described in a control model. Tempting to think of the surface of an ocean in fluctuation. Looks like random movement on the surface! But there are regular patterns like water vortices. The meanining of information lies in its relationship to other information. If you see a blip on your retina, it's relationship to other blips is its meaning. The meaning is a function describing the relationship between the blips. E.g. people in a room, the sun shines, people are walking around exchanging ideas. What doesn't fit the function is noise. There is a lot of noise. In some sense, this is how we interpret the universe. What fits in a relation is in the model, the rest is noise.
+
+Q: Is there no noise left, ultimately?
+
+We'll always be able to construct a no-noise function, but that doesn't mean it's the right one. Imagine you are living in minecraft, and want to to model it, observing the patterns. you will always find a function that describes everything. But you won't find the truth of it (probably, if it isn't terribly simply). If you live inside of a mandelbrot fractal, which is just like two lines of code, you might discover them. Its conceivable that there is such a function for our universe. If the universe is very complicated, you might find a very complicated function. The standard model of physics is maybe half a page of code.
+
+** 0:40:40 Are the fundamental laws of physics ultimately "simple"?
+Q: Ultimately, is the code short? Or is it Feynman's onion?
+
+Weird metaphor. Let's deconstruct ways to think about the world. Is there a hierarchy of models? Do more central layers of the onion become simpler or more complex? Does it converge? Likely that it might converge, but no proof yet. I think it most converge to something, since there are no infinities. thing must be constructed. Also, particle generation can be described by integer fractions in their properties. It could be that there are smallest building blocks of information without infinite divisions. Could be that the causally closed lowest layers is somewhere in sight - constructible.
+
+Back to the optimal algorithm for truth. AI systems had a succession of algorithms. First hand crafted algorithms to play chess. Then more general algorithms for larger classes of problems. Then the description is too long, explosion of possibilities. So you need targeted exploration of space. So We are now doing targeted exploration of the space of possiblities. Current wave of AI. Looking for algorithms discovering solutions. WE give it a specification of chess, then let the system explore the solution space. A learning algorithm. then the next thing might be an algorithm discovering an algorithm for this - a system that learns how to learn. Is it the best solution already? Maybe. Or we need a general theory of search.
+
+Q: Huh? [44:36]
+
+Watson is a family of IBM algorithm. google has different naming schemes - alphazero, alphago, deep-q-learning etc. The most interesting ones atm are /transformers/ looking for embeddings of feature space and similarity over many layers using attention based algorithm. The same algorithm that discovers structure in language can also discover structure in images. Is there an optimal algorithm that discovers structure everywhere? Maybe even in itself? a universal recipe? There might be something human level. Everything we do is basically an optimized search problem. It would mean we can stop doing science and go to the beach and surf.
+
+
+Q: There is a factor of time... [47:46]
+
+But evolution is only slow for multicellular organisms - you need to bootstrap the algorithm first. If you want to breed the optimal scientist, all sorts of trouble with biology! If you just evolve single cell organisms it goes /fast/. But for AI, we would'nt have to reinstate the eintire phenotype. 'just' change the parts we need. Many many orders of magnitude faster. Much more directed, too. Define a fitness function that narrows the solution space very well.
+
+
+** 0:50:17 The relationship between art and the artist's cost function
+Q: You said that artists are /tuned to their loss functions/?
+
+What I tried to say was that artist are disfunctional. A non-artist sees art as a tool for something, education, entertainment. For an artist, the purpose of art is to capture conscious states full stop. An artist is someone who needs to do art. Craftsmen do art instrumentally. Though the lens of AI, an artist is a system that has fallen in love of the loss function. Trying to figure out what it looks like, not for the reward.
+
+Q: You see yourself as doing that? [52:29]
+
+Ja. Maybe its a deformation. My mind is very conceptual. I perceive myself as something that thinks. Emotions are outside of me, they disturb me etc. I don't identify as an emotional being. Sometimes I am in an emotional state, embodied, motivational, experiencing, that's a normal state, you're supposed to be in. A scientiest, artist, philosopher is born when a child discovers it trust its ideas more than its feelings. You're wired differenly than children around you, etc.
+
+** 0:54:02 Ideas are stories, being directed by intuitions
+Q: Your ideas are different from your feelings? [54:05]
+
+My ideas are stories if have agency over. I don't have agency over my feelings (before I am an adult). As a child my feelings results from the interaction between the model of the universe and the self according to the needs of the self. Things happen, they might frustate or satisfy needs. Joy or suffering. with the wrong model, needs are constantly frustrated.
+
+I grew up in a forest. Remote from villages. In first grade I met other kids for the first time basically. I had difficult relating. Math, physics, science fiction, etc. not soccer! I was excluded from many things. The same thing with politics in eastern germany. conform or be punished. At the same time, teachers told us to be critical and criticize the environment, because that's how facism happened. I question everything, explain it to me, before I believe it. What a hypocrisy! Difficult for me as a child. I practically decided to distrust my emotions. I had to form theories of how things work. In a healthy mind, this is temporary, and you get strong intuitons. there are no proofs about this, ideas are way to brittle. Science is inteded to deal with our darkest and murkiest intuitions. it has only marginal value for the individual. You need good intuitions. Scientist don't tell you which relationships to enter. You need to have good common sense. Only where these break down, science might help.
+
+
+** 0:58:00 Society has a minimal role in training your intuitions
+Q: Who trains your intuitions? [58:07]
+
+Your experiences. Society is often seen as too large an influence I think. Society is a small part of the physical universe. how large an object is at a certain distance, etc. is given by innate intuitions and learning. catching a ball, etc. Social interactions are not taught by society, it's you being immersed in the environment that makes you learn. Based on innate impulses that make you interested e.g. in what others think of you. Society is the result, not the cause of those things.
+
+** 0:59:24 Why does art benefit from a repressive government? And 1:04:01 A market case for civil rights
+Q: In oppressive GDR, is it conducive to artists? Why? And
+
+Often there is a motivation force. E.g. a topic. The simplest topic is imagery, music etc. just the aesthetics itself. Or the discourse with other artists, as in a movement. Only incidental relationship to what's going on around. Also there is art of the artist in conflict with the environment, i.e. society. GDR is interesting: guaranteed everybody health, job, home, etc. (the productivity was very low, no incentives to work harder). Fault of the entire system. Nobody was stand to profit if the factory was producing more. this killed the GDR. If you have a factory where you have skin in the game, that leads to inequality, as in Western Germany. But, the western workers lived better than those in the east! better consumables, environmental protection, civil rights, etc. Once you have a society where the individual isn't terrorized into compliance, the individual will take all liberties it can get! But! if you weren't interested in cars, fancy stuff, traveling etc. then Eastern germany gave a certain existential baseline you didn't have to worry about. You want to have space for the non-economical thing. You don't make art to eat. GDR gave you this, to some extent. You could do what my father did - a '68 hippie, lived in an old watermill in his own kingdom. Painting, sculptures, etc.
+
+** 1:06:40 Fascism vs communism
+Q: Once you characterized facism as superorganism, not caring about the individual cell. what's the differenc eto communism? [1:06:42]
+
+Communism is tricky because it didn't exist. It's an utopia that never happened. Justifying present mishaps of the system. Socialist GDR was very different from fascism. Fascism defines the individuals value exactly as its contribution to the group. For a disabled person, your value is negative. As an outside group, e.g. as a jewish person, you are an enemy. You are to be removed by its immune response. The extreme brutality is unique to fascism, especially at a modernist industrial scale. There are similar cultures, e.g. warrior tribes, that do similar things, but not at this scale. Socialsm was modernist, but didn't eradicate individuals for being disabled or different. There was eugenicism, e.g. disabled people often were sterilized for inheritable conditions, which we now think is immoral. GDR didn't have gulags, which where arguably as bad as KZs of the fascists. Gulags where targeting people arbitrarily. GDR was rather civilian. In terms of civil rights still far inferior to the west, but you didn't run the risk as an artist to end up in prison by being different.
+
+
+1:10:50 Bach's "control / attention / reflective recall" model
+1:13:32 What's more fundamental... Consciousness or attention?
+1:16:02 The Chinese Room Experiment
+1:25:22 Is understanding predicated on consciousness?
+1:26:22 Integrated Information Theory of consciousness (IIT)
+1:30:15 Donald Hoffman's theory of consciousness
+1:32:40 Douglas Hofstadter's "strange loop" theory of consciousness
+1:34:10 Holonomic Brain theory of consciousness
+1:34:42 Daniel Dennett's theory of consciousness
+1:36:57 Sensorimotor theory of consciousness (embodied cognition)
+1:44:39 What is intelligence?
+1:45:08 Intelligence vs. consciousness
+1:46:36 Where does Free Will come into play, in Bach's model?
+1:48:46 The opposite of free will can lead to, or feel like, addiction
+1:51:48 Changing your identity to effectively live forever
+1:59:13 Depersonalization disorder as a result of conceiving of your "self" as illusory
+2:02:25 Dealing with a fear of loss of control
+2:05:00 What about heart and conscience?
+2:07:28 How to test / falsify Bach's model of consciousness
+2:13:46 How has Bach's model changed in the past few years?
+2:14:41 Why Bach doesn't practice Lucid Dreaming anymore
+2:15:33 Dreams and GAN's (a machine learning framework)
+2:18:08 If dreams are for helping us learn, why don't we consciously remember our dreams
+2:19:58 Are dreams "real"? Is all of reality a dream?
+2:20:39 How do you practically change your experience to be most positive / helpful?
+2:23:56 What's more important than survival? What's worth dying for?
+2:28:27 Bach's identity
+2:29:44 Is there anything objectively wrong with hating humanity?
+2:30:31 Practical Platonism
+2:33:00 What "God" is
+2:36:24 Gods are as real as you, Bach claims
+2:37:44 What "prayer" is, and why it works
+2:41:06 Our society has lost its future and thus our culture
+2:43:24 What does Bach disagree with Jordan Peterson about?
+2:47:16 The millennials are the first generation that's authoritarian since WW2
+2:48:31 Bach's views on the "social justice" movement
+2:51:29 Universal Basic Income as an answer to social inequality, or General Artificial Intelligence?
+2:57:39 Nested hierarchy of "I"s (the conflicts within ourselves)
+2:59:22 In the USA, innovation is "cheating" (for the most part)
+3:02:27 Activists are usually operating on false information
+3:03:04 Bach's Marxist roots and lessons to his former self
+3:08:45   BONUS BIT: On societies problems
+
+Q: Concerning your slides...[which slides?] [1:10:41]
